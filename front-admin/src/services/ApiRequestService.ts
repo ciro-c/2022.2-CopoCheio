@@ -1,7 +1,7 @@
 import axios, { AxiosError } from "axios";
 
-const BASEURL = 'http://localhost';
-const PORT = '3000';
+const BASEURL = 'https://copocheioapp-h4tp8.ondigitalocean.app/';
+const PORT = null;
 
 const userToken = sessionStorage.getItem('userToken');
 const headers = { "authorization": userToken };

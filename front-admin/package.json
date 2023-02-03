@@ -2,7 +2,7 @@
   "name": "front-end",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://copocheioapp-h4tp8.ondigitalocean.app/2022-2-copocheio-front-end",
+  "homepage": "https://copocheioapp-h4tp8.ondigitalocean.app/2022-2-copocheio-front-admin",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
